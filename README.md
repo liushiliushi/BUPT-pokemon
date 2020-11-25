@@ -16,7 +16,7 @@
 
 ### 窗口界面设计
 
-![](E:\资料\c++\作业\小精灵\doc\窗口界面.png)
+![](doc/窗口界面.png)
 
 ### 模块清单
 
@@ -38,59 +38,59 @@
 
 - 开始界面
 
-![](/BUPT-pokemon/doc/start.PNG)
+![](doc/start.PNG)
 
 - 登陆界面
 
-![](doc\login.PNG)
+![](doc/login.PNG)
 
 - 游戏大厅
 
-![](E:\资料\c++\作业\小精灵\doc\lobby.PNG)
+![](doc/lobby.PNG)
 
 - 用户列表
 
-![](E:\资料\c++\作业\小精灵\doc\userlist.PNG)
+![](doc/userlist.PNG)
 
 - 用户信息
 
-![](E:\资料\c++\作业\小精灵\doc\userInfo.PNG)
+![](doc/userInfo.PNG)
 
 - 背包界面
 
-![](E:\资料\c++\作业\小精灵\doc\bagwidget.PNG)
+![](doc/bagwidget.PNG)
 
 - 小精灵信息界面
 
-![](E:\资料\c++\作业\小精灵\doc\spiritinfo.PNG)
+![](doc/spiritinfo.PNG)
 
-![](E:\资料\c++\作业\小精灵\doc\spiritinfo2.PNG)
+![](doc/spiritinfo2.PNG)
 
-![](E:\资料\c++\作业\小精灵\doc\spiritinfo3.PNG)
+![](doc/spiritinfo3.PNG)
 
 - 选择服务器对战精灵
 
-![](E:\资料\c++\作业\小精灵\doc\choose.PNG)
+![](doc/choose.PNG)
 
 - 选择玩家对战精灵
 
-![](E:\资料\c++\作业\小精灵\doc\choose2.PNG)
+![](doc/choose2.PNG)
 
 - 对战界面
 
-![](E:\资料\c++\作业\小精灵\doc\fightwidget.PNG)
+![](doc/fightwidget.PNG)
 
 - 结果界面
 
-![](E:\资料\c++\作业\小精灵\doc\result1.PNG)
+![](doc/result1.PNG)
 
-![](E:\资料\c++\作业\小精灵\doc\result2.PNG)
+![](doc/result2.PNG)
 
 ## 
 
 ## 小精灵类设计说明
 
-![](E:\资料\c++\作业\小精灵\doc\小精灵类.png)
+![](doc/小精灵类.png)
 
 ### 小精灵抽象基类设计
 
