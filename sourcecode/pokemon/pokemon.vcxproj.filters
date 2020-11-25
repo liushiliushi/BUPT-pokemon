@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bagwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="connectsql.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fightwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listitem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lobby.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mypushbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pokemon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spiritinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="userinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="userlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="bagwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="connectsql.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="fightwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="listitem.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="lobby.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="login.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mypushbutton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="pokemon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="spiritinfo.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="userinfo.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="userlist.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="bagwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="fightwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="lobby.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="login.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="spiritinfo.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="userinfo.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="userlist.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="widget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="(1).jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="(2).jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="(2).png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\spirit\025Pikachu.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\spirit\028Sandslash.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\1.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\1st.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\2.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\2nd.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\3rd.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\??.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\????.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\????2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\????">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\add.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\bag.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\coin.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\coins.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\cost.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\exit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\exit2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\failed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\fight.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\fight1.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\fight2.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\frame.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\frame2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\get.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\good.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\intro.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\intro2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\lists.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\money.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\name.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\num.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\pokemon1.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="res.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="ziyuan\background\river.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\room1.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\room2.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\spiritFrame.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\start.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\timg.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\background\timg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\upgrade.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\users.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\vs.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\win.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\button\winwin.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\character\zhi.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ziyuan\character\zhi2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
