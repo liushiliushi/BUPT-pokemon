@@ -1,5 +1,8 @@
 # BUPT-pokemon
 北邮c++大作业 宠物小精灵对战系统
+
+视频演示 https://www.bilibili.com/video/BV1Hf4y1k7NN
+
 # 课程设计报告
 
 ## 总体方案设计说明
